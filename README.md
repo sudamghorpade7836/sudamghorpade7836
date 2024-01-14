@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sudamghorpade
-- 👀 I’m working in QA Engineer with expertise in both manual and automation testing ...
+- **👋 Hi, I’m sudamghorpade**
+- **👀 I’m working in QA Engineer with expertise in both manual and automation testing ...**
 
 🛠️ **Tech stack**
 
