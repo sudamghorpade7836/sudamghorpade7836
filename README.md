@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudamghorpade
-- 👀 I’m working in QA Engineer with expertise in bothmanual and automation testing ...
+- 👀 I’m working in QA Engineer with expertise in both manual and automation testing ...
 - 🛠️ Tech stac
 
 |  Type 1          |Skills | 
