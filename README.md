@@ -22,7 +22,7 @@
 
 [![Sudam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudamghorpade7836)](https://github.com/sudamghorpade7836/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudamghorpade7836)](https://git.io/streak-stats)
-[![Sudam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudamghorpade7836)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sudam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudamghorpade7836)](https://github.com/sudamghorpade7836/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
