@@ -18,7 +18,7 @@
 | Test Management Tool | TestLink| 
 
 
-<a href="https://github.com/sudamghorpade7836/github-readme-stats"><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=sudamghorpade7836&theme=github-dark&hide_border=false" alt="sudamghorpade7836"/></a> </div>
+
 [![Sudam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudamghorpade7836)](https://github.com/sudamghorpade7836/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudamghorpade7836)](https://git.io/streak-stats)
 [![Sudam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudamghorpade7836)](https://github.com/sudamghorpade7836/github-readme-activity-graph)
