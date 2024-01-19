@@ -1,4 +1,4 @@
-- **👋 Hi, I’m sudamghorpade**
+- **👋 Hi, I’m sudam ghorpade**
 - **👀 I’m working in QA Engineer with expertise in both manual and automation testing ...**
 
 🛠️ **Tech stack**
